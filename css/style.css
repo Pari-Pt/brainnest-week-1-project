@@ -1,0 +1,24 @@
+body {
+    background-color: #f6f39cf6;
+}
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    border-radius: 5%;
+}
+
+table, td{
+    border: 1px solid grey;
+}
+
+.author {
+    color: rgb(186, 37, 186);
+    font-size: 15px;
+}
